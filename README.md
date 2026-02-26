@@ -24,8 +24,6 @@ docker compose up
 #    Double-click scripts/demo_ui.html in File Explorer
 ```
 
----
-
 ## Demo Commands
 
 ```bash
