@@ -1,6 +1,6 @@
 # RenewCast — Autonomous Grid Intelligence System
 
-> **Every weather event triggers a forecast, a dispatch decision, and a regulatory-grounded advisory — fully autonomous, no human in the loop.**
+> **Every weather event triggers a forecast, a dispatch decision, and a regulatory-grounded advisory fully autonomous, no human in the loop.**
 
 Built for the **Hack For Green Bharat 2026** hackathon (Pathway track).
 
@@ -11,7 +11,7 @@ Built for the **Hack For Green Bharat 2026** hackathon (Pathway track).
 ### Dashboard — Live Grid Dispatch System
 ![RenewCast Live Dashboard](s1.jpeg)
 
-Three plants (RJ01 · GJ01 · TN01) updating in real time. P10/P50/P90 forecast bands visible. Pipeline is live — no manual refresh.
+Three plants (RJ01 · GJ01 · TN01) updating in real time. P10/P50/P90 forecast bands visible. Pipeline is live  no manual refresh.
 
 ---
 
@@ -196,7 +196,7 @@ class QuantileRegressor:
         )
 ```
 
-The P10 is the dispatch safety input — the RL agent pre-schedules backup conservatively against the pessimistic lower bound.
+The P10 is the dispatch safety input  the RL agent pre-schedules backup conservatively against the pessimistic lower bound.
 
 ### River State Persistence
 
