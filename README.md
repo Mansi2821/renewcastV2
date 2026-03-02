@@ -174,7 +174,7 @@ bash scripts/watch_outputs.sh
 | 1:00 | Inject cloud event on RJ01 | RJ01 P50 drops, RL agent increases gas backup |
 | 1:20 | Show held command | Inject extreme action → appears in `held_commands.jsonl` with reason |
 | 1:40 | Show LLM advisory | CERC document cited in plain-English explanation |
-| 2:00 | Drop new PDF into `/docs/` | Document store re-indexes, next advisory references new doc |
+
 
 ---
 
